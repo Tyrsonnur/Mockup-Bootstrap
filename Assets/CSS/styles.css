@@ -43,26 +43,26 @@
 }
 
 .Card-1{
-    height: 165px;
-    width: 165px;
-    padding: 5px
+    height: 150px;
+    width: 155px;
+    padding: 10px
 }
 
 .Card-2{
-    height: 165px;
-    width: 165px;
-    padding: 5px
+    height: 150px;
+    width: 155px;
+    padding: 10px
 }
 
 .Card-3{
-    height: 165px;
-    width: 165px;
-    padding: 5px
+    height: 150px;
+    width: 155px;
+    padding: 10px
 }
 
 .button-delete{
-    width: 250px;
-    height: 70px;
+    width: 245px;
+    height: 55px;
     background: #cf0404;
     color: var(--text-color);
     border-radius: 10px;
